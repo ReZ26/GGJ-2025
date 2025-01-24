@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spider_web-removebg-preview_0: -2883150924843270804
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

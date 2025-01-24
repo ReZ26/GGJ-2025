@@ -485,7 +485,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      slime_idle_0: 5463189583543264802
+      slime_idle_1: 4849661833066715017
+      slime_idle_10: -2338942724765397996
+      slime_idle_11: 9206651655446173522
+      slime_idle_12: -8839524854522196338
+      slime_idle_13: -3911802350876165716
+      slime_idle_2: -4815338781847372184
+      slime_idle_3: 2331914284563532042
+      slime_idle_4: -2766716539995522894
+      slime_idle_5: 649774121271738592
+      slime_idle_6: -4444060080580353025
+      slime_idle_7: -2004634139485552337
+      slime_idle_8: -2285690290768003767
+      slime_idle_9: 1169341046029143273
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

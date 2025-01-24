@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      slime_splat_wall_0: 2203937263145454454
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

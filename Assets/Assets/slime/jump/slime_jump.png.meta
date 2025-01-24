@@ -885,7 +885,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      slime_jump_0: 3392966208300966758
+      slime_jump_1: -7020169640972223087
+      slime_jump_10: 3767683880099541764
+      slime_jump_11: 6151036930328300869
+      slime_jump_12: -7234663766303258524
+      slime_jump_13: 6525283140768795545
+      slime_jump_14: -460478250396072606
+      slime_jump_15: 1822932761830739704
+      slime_jump_16: 8695299829335985042
+      slime_jump_17: 3727878818381550522
+      slime_jump_18: -971787755865824406
+      slime_jump_19: -3491353998308723056
+      slime_jump_2: -5139682283570628478
+      slime_jump_20: 8279961872873871560
+      slime_jump_21: -7541205286962691385
+      slime_jump_22: -559323710931718793
+      slime_jump_23: 2917853270170197099
+      slime_jump_24: -8345753096008871576
+      slime_jump_25: -6092519677976197694
+      slime_jump_26: -7772324264625253745
+      slime_jump_27: 7909469959886467586
+      slime_jump_28: -3063696997994139542
+      slime_jump_29: 9084958549585279984
+      slime_jump_3: -8482318855872546559
+      slime_jump_4: -7050137547198369393
+      slime_jump_5: -2679807461761801379
+      slime_jump_6: 8234145698625636582
+      slime_jump_7: -7355556027189763617
+      slime_jump_8: 8752622522303831588
+      slime_jump_9: 717860036772789398
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

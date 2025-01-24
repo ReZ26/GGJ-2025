@@ -685,7 +685,29 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      slime_death_0: 6516262956933475730
+      slime_death_1: 9036713919185310984
+      slime_death_10: 7647325575839843143
+      slime_death_11: -7722113334685360069
+      slime_death_12: 3220361898981263199
+      slime_death_13: -4522747389586516496
+      slime_death_14: 2083814952258124739
+      slime_death_15: -7546830298980908466
+      slime_death_16: -7929032529847806650
+      slime_death_17: -4874051350701926318
+      slime_death_18: 8999562987071003575
+      slime_death_19: 9191236473210416851
+      slime_death_2: -178708418130533412
+      slime_death_20: 8150582624251897066
+      slime_death_21: -1952686623748695137
+      slime_death_3: -4449343473741423058
+      slime_death_4: -3253774888994705012
+      slime_death_5: -4849051263048299428
+      slime_death_6: 120884835930173555
+      slime_death_7: 2981819967780298043
+      slime_death_8: -2503638470524949015
+      slime_death_9: -7948104434002376367
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

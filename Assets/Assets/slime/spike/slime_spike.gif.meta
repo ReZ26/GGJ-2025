@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      slime_spike_0: 7051020629762657730
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

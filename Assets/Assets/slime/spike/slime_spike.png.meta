@@ -885,7 +885,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      slime_spike_0: 7051020629762657730
+      slime_spike_1: -8120450241494795101
+      slime_spike_10: -4289748287179243285
+      slime_spike_11: -7078963808672614189
+      slime_spike_12: -387499505403604044
+      slime_spike_13: 2961955847458697240
+      slime_spike_14: 1511615752990122918
+      slime_spike_15: 8036893817720086782
+      slime_spike_16: 5674131420225812372
+      slime_spike_17: -1304350028382454283
+      slime_spike_18: -6456736050297898240
+      slime_spike_19: -5086323187730159710
+      slime_spike_2: 8594176502362777286
+      slime_spike_20: -4164133705088676701
+      slime_spike_21: 7587579387391745826
+      slime_spike_22: -6345712183809738466
+      slime_spike_23: -2524568821274555662
+      slime_spike_24: 7303931790354255544
+      slime_spike_25: 7780200952408866154
+      slime_spike_26: 3365636165050711912
+      slime_spike_27: -2677110440948789121
+      slime_spike_28: -1272043670258742382
+      slime_spike_29: 4639541760865961022
+      slime_spike_3: -3681901833601214188
+      slime_spike_4: 6611175175395562130
+      slime_spike_5: 7914760708986204759
+      slime_spike_6: 2509004930084479578
+      slime_spike_7: -1842853901721125941
+      slime_spike_8: -6825266241941340717
+      slime_spike_9: 3122703564034777635
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

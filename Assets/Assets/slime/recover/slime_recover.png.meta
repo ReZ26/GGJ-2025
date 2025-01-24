@@ -685,7 +685,29 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      slime_recover_0: 5245164067902606366
+      slime_recover_1: 986055529473605774
+      slime_recover_10: 6014196403798812421
+      slime_recover_11: 2940321518204481663
+      slime_recover_12: 2462629379904730777
+      slime_recover_13: -8996446308991680440
+      slime_recover_14: 6454568224601101165
+      slime_recover_15: -594144939827450462
+      slime_recover_16: 7757816769567524547
+      slime_recover_17: 6156418675641678184
+      slime_recover_18: -7653451659716238659
+      slime_recover_19: -5059535820861621497
+      slime_recover_2: -5199065593662205746
+      slime_recover_20: -2148256342292497037
+      slime_recover_21: -2748620163073870049
+      slime_recover_3: -1125601085300927771
+      slime_recover_4: 2858701899097537318
+      slime_recover_5: 733180384336411962
+      slime_recover_6: 6532375325108620225
+      slime_recover_7: 345413289324846152
+      slime_recover_8: -5636675763717646872
+      slime_recover_9: 3777533269059642656
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

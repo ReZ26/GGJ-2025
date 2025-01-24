@@ -460,7 +460,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      slime_injured3_0: 3937217325230071632
+      slime_injured3_1: -6420525984306777378
+      slime_injured3_10: -6842387915924023964
+      slime_injured3_11: -4630825855124530138
+      slime_injured3_12: -7510259966410491503
+      slime_injured3_2: 175646858690063138
+      slime_injured3_3: 9203233620657341001
+      slime_injured3_4: 8446690169317232435
+      slime_injured3_5: -8526545825796485506
+      slime_injured3_6: 4425599390634599040
+      slime_injured3_7: -6650710288707691107
+      slime_injured3_8: 1298223705755040718
+      slime_injured3_9: 6554832325924865267
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

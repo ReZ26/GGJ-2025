@@ -635,7 +635,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      slime_splat_wall_0: 2203937263145454454
+      slime_splat_wall_1: 4614522779537013929
+      slime_splat_wall_10: -2772992129647446225
+      slime_splat_wall_11: 2132432392509416674
+      slime_splat_wall_12: -7987323679734871082
+      slime_splat_wall_13: -1430569255096040380
+      slime_splat_wall_14: -7467188223025522923
+      slime_splat_wall_15: -8442859005439595736
+      slime_splat_wall_16: 8040648479191852385
+      slime_splat_wall_17: -7631420346599442921
+      slime_splat_wall_18: 3098063239422801922
+      slime_splat_wall_19: -1743951879197534450
+      slime_splat_wall_2: -1943687753448986676
+      slime_splat_wall_3: -3895336279100498175
+      slime_splat_wall_4: -6996180510271841183
+      slime_splat_wall_5: -5868942082762810710
+      slime_splat_wall_6: 4377775155063966521
+      slime_splat_wall_7: 6377141474582736030
+      slime_splat_wall_8: -8925739361141394625
+      slime_splat_wall_9: -3237934727280290060
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
