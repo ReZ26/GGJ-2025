@@ -1,0 +1,1882 @@
+fileFormatVersion: 2
+guid: c0db8fc1e15795c45ae6af3d0c1b4613
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9088446074387681743
+    second: Explosion_Energy_v2_spritesheet_0
+  - first:
+      213: 4697568825139991074
+    second: Explosion_Energy_v2_spritesheet_1
+  - first:
+      213: 2599832457941287381
+    second: Explosion_Energy_v2_spritesheet_2
+  - first:
+      213: -1530291895548674804
+    second: Explosion_Energy_v2_spritesheet_3
+  - first:
+      213: -566441264899319622
+    second: Explosion_Energy_v2_spritesheet_4
+  - first:
+      213: 8943627131008026006
+    second: Explosion_Energy_v2_spritesheet_5
+  - first:
+      213: -2267618763685377343
+    second: Explosion_Energy_v2_spritesheet_6
+  - first:
+      213: -7823330151299755682
+    second: Explosion_Energy_v2_spritesheet_7
+  - first:
+      213: 4638248584789249433
+    second: Explosion_Energy_v2_spritesheet_8
+  - first:
+      213: 5021256204312939451
+    second: Explosion_Energy_v2_spritesheet_9
+  - first:
+      213: 3989987457341681000
+    second: Explosion_Energy_v2_spritesheet_10
+  - first:
+      213: -905305455308481802
+    second: Explosion_Energy_v2_spritesheet_11
+  - first:
+      213: 3001203664156958753
+    second: Explosion_Energy_v2_spritesheet_12
+  - first:
+      213: -2559146518191571542
+    second: Explosion_Energy_v2_spritesheet_13
+  - first:
+      213: 259218891246507706
+    second: Explosion_Energy_v2_spritesheet_14
+  - first:
+      213: 270464237026917136
+    second: Explosion_Energy_v2_spritesheet_15
+  - first:
+      213: 2236071032081473620
+    second: Explosion_Energy_v2_spritesheet_16
+  - first:
+      213: 4291529393535075645
+    second: Explosion_Energy_v2_spritesheet_17
+  - first:
+      213: 5006123963814801317
+    second: Explosion_Energy_v2_spritesheet_18
+  - first:
+      213: 6906039211277991056
+    second: Explosion_Energy_v2_spritesheet_19
+  - first:
+      213: 1749007790664531765
+    second: Explosion_Energy_v2_spritesheet_20
+  - first:
+      213: 3344028964141357226
+    second: Explosion_Energy_v2_spritesheet_21
+  - first:
+      213: 5441762719941749730
+    second: Explosion_Energy_v2_spritesheet_22
+  - first:
+      213: -6682039098036793039
+    second: Explosion_Energy_v2_spritesheet_23
+  - first:
+      213: -7928827576526514253
+    second: Explosion_Energy_v2_spritesheet_24
+  - first:
+      213: -7354646246573006069
+    second: Explosion_Energy_v2_spritesheet_25
+  - first:
+      213: 7554873607614115915
+    second: Explosion_Energy_v2_spritesheet_26
+  - first:
+      213: -2900510965702389225
+    second: Explosion_Energy_v2_spritesheet_27
+  - first:
+      213: 1456994954359848503
+    second: Explosion_Energy_v2_spritesheet_28
+  - first:
+      213: -8069930258786340556
+    second: Explosion_Energy_v2_spritesheet_29
+  - first:
+      213: -2454724018429914602
+    second: Explosion_Energy_v2_spritesheet_30
+  - first:
+      213: -4471056914719055359
+    second: Explosion_Energy_v2_spritesheet_31
+  - first:
+      213: -5696523785037409537
+    second: Explosion_Energy_v2_spritesheet_32
+  - first:
+      213: 6279759960616949820
+    second: Explosion_Energy_v2_spritesheet_33
+  - first:
+      213: 301874712715607513
+    second: Explosion_Energy_v2_spritesheet_34
+  - first:
+      213: -5393502557911887500
+    second: Explosion_Energy_v2_spritesheet_35
+  - first:
+      213: 959551461621826330
+    second: Explosion_Energy_v2_spritesheet_36
+  - first:
+      213: 8895653169864298298
+    second: Explosion_Energy_v2_spritesheet_37
+  - first:
+      213: -4247154306203736571
+    second: Explosion_Energy_v2_spritesheet_38
+  - first:
+      213: 662001195431168388
+    second: Explosion_Energy_v2_spritesheet_39
+  - first:
+      213: -332074524589559987
+    second: Explosion_Energy_v2_spritesheet_40
+  - first:
+      213: 3687357975769085177
+    second: Explosion_Energy_v2_spritesheet_41
+  - first:
+      213: -2815102001559819449
+    second: Explosion_Energy_v2_spritesheet_42
+  - first:
+      213: -8790436880892328946
+    second: Explosion_Energy_v2_spritesheet_43
+  - first:
+      213: 4369555756281682664
+    second: Explosion_Energy_v2_spritesheet_44
+  - first:
+      213: 8943887034659906112
+    second: Explosion_Energy_v2_spritesheet_45
+  - first:
+      213: -1281949673640642420
+    second: Explosion_Energy_v2_spritesheet_46
+  - first:
+      213: -7970290805598527857
+    second: Explosion_Energy_v2_spritesheet_47
+  - first:
+      213: -8023675613681858699
+    second: Explosion_Energy_v2_spritesheet_48
+  - first:
+      213: -6890088101346553570
+    second: Explosion_Energy_v2_spritesheet_49
+  - first:
+      213: 6844468608048446811
+    second: Explosion_Energy_v2_spritesheet_50
+  - first:
+      213: -4241973925864956654
+    second: Explosion_Energy_v2_spritesheet_51
+  - first:
+      213: 5278131164117558951
+    second: Explosion_Energy_v2_spritesheet_52
+  - first:
+      213: 4815143554936373220
+    second: Explosion_Energy_v2_spritesheet_53
+  - first:
+      213: 5071309450533467386
+    second: Explosion_Energy_v2_spritesheet_54
+  - first:
+      213: -5358462300981991651
+    second: Explosion_Energy_v2_spritesheet_55
+  - first:
+      213: -5158503209334653429
+    second: Explosion_Energy_v2_spritesheet_56
+  - first:
+      213: -5770293328772637119
+    second: Explosion_Energy_v2_spritesheet_57
+  - first:
+      213: -4937402178339413506
+    second: Explosion_Energy_v2_spritesheet_58
+  - first:
+      213: -1314845468487239192
+    second: Explosion_Energy_v2_spritesheet_59
+  - first:
+      213: 2995672588277471002
+    second: Explosion_Energy_v2_spritesheet_60
+  - first:
+      213: 3297490606894950799
+    second: Explosion_Energy_v2_spritesheet_61
+  - first:
+      213: -8900293978753117950
+    second: Explosion_Energy_v2_spritesheet_62
+  - first:
+      213: 347657756584180017
+    second: Explosion_Energy_v2_spritesheet_63
+  - first:
+      213: 8592012078679042931
+    second: Explosion_Energy_v2_spritesheet_64
+  - first:
+      213: -2049537745398997749
+    second: Explosion_Energy_v2_spritesheet_65
+  - first:
+      213: 615968007532293908
+    second: Explosion_Energy_v2_spritesheet_66
+  - first:
+      213: -114200674361720115
+    second: Explosion_Energy_v2_spritesheet_67
+  - first:
+      213: 2629753877109237591
+    second: Explosion_Energy_v2_spritesheet_68
+  - first:
+      213: -4365262046621443049
+    second: Explosion_Energy_v2_spritesheet_69
+  - first:
+      213: -2814159714428280633
+    second: Explosion_Energy_v2_spritesheet_70
+  - first:
+      213: 6732899486761280671
+    second: Explosion_Energy_v2_spritesheet_71
+  - first:
+      213: -4963351724655826689
+    second: Explosion_Energy_v2_spritesheet_72
+  - first:
+      213: -2986662151828538679
+    second: Explosion_Energy_v2_spritesheet_73
+  - first:
+      213: 1174096094999974374
+    second: Explosion_Energy_v2_spritesheet_74
+  - first:
+      213: -380983967429195608
+    second: Explosion_Energy_v2_spritesheet_75
+  - first:
+      213: 3856837813533260153
+    second: Explosion_Energy_v2_spritesheet_76
+  - first:
+      213: 8050308849011996982
+    second: Explosion_Energy_v2_spritesheet_77
+  - first:
+      213: -8879826914080806868
+    second: Explosion_Energy_v2_spritesheet_78
+  - first:
+      213: 327114778307201808
+    second: Explosion_Energy_v2_spritesheet_79
+  - first:
+      213: -2688344806418718334
+    second: Explosion_Energy_v2_spritesheet_80
+  - first:
+      213: 2364531724631284080
+    second: Explosion_Energy_v2_spritesheet_81
+  - first:
+      213: 2557177133162832564
+    second: Explosion_Energy_v2_spritesheet_82
+  - first:
+      213: 1766200070044974810
+    second: Explosion_Energy_v2_spritesheet_83
+  - first:
+      213: 6465284383927337582
+    second: Explosion_Energy_v2_spritesheet_84
+  - first:
+      213: 116939125993410770
+    second: Explosion_Energy_v2_spritesheet_85
+  - first:
+      213: 49636777354528638
+    second: Explosion_Energy_v2_spritesheet_86
+  - first:
+      213: -3064789929072947722
+    second: Explosion_Energy_v2_spritesheet_87
+  - first:
+      213: 9220115246041939723
+    second: Explosion_Energy_v2_spritesheet_88
+  - first:
+      213: 4693002548851694911
+    second: Explosion_Energy_v2_spritesheet_89
+  - first:
+      213: -1360837560256444687
+    second: Explosion_Energy_v2_spritesheet_90
+  - first:
+      213: -8999316808254190636
+    second: Explosion_Energy_v2_spritesheet_91
+  - first:
+      213: -1963893755884346176
+    second: Explosion_Energy_v2_spritesheet_92
+  - first:
+      213: 7120644928991376881
+    second: Explosion_Energy_v2_spritesheet_93
+  - first:
+      213: 2543705224232378299
+    second: Explosion_Energy_v2_spritesheet_94
+  - first:
+      213: 606328961095064873
+    second: Explosion_Energy_v2_spritesheet_95
+  - first:
+      213: 4316716467491995331
+    second: Explosion_Energy_v2_spritesheet_96
+  - first:
+      213: -2002005353537261950
+    second: Explosion_Energy_v2_spritesheet_97
+  - first:
+      213: 1060854633829806989
+    second: Explosion_Energy_v2_spritesheet_98
+  - first:
+      213: 7390114050847664687
+    second: Explosion_Energy_v2_spritesheet_99
+  - first:
+      213: -6156868407140794241
+    second: Explosion_Energy_v2_spritesheet_100
+  - first:
+      213: 7288441186975103476
+    second: Explosion_Energy_v2_spritesheet_101
+  - first:
+      213: -6502483731232130318
+    second: Explosion_Energy_v2_spritesheet_102
+  - first:
+      213: -8492486099699215678
+    second: Explosion_Energy_v2_spritesheet_103
+  - first:
+      213: -4976279363765436398
+    second: Explosion_Energy_v2_spritesheet_104
+  - first:
+      213: 3223363592315372892
+    second: Explosion_Energy_v2_spritesheet_105
+  - first:
+      213: -2284780299351060545
+    second: Explosion_Energy_v2_spritesheet_106
+  - first:
+      213: 8124054339875917722
+    second: Explosion_Energy_v2_spritesheet_107
+  - first:
+      213: 5140376293098505543
+    second: Explosion_Energy_v2_spritesheet_108
+  - first:
+      213: -7552630068711855956
+    second: Explosion_Energy_v2_spritesheet_109
+  - first:
+      213: 370988435422182663
+    second: Explosion_Energy_v2_spritesheet_110
+  - first:
+      213: 1407649410784315901
+    second: Explosion_Energy_v2_spritesheet_111
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d532be4b9b97f243aca45403ec35a65
+      internalID: 1928284546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f78f50806fb2da41a76f3d79369ee5c
+      internalID: 1921432616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d773d2df7a44f114da8fa9d3a72e62da
+      internalID: -2015243339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4ab0ab62bc52e4dbb49702aa495abc
+      internalID: -1457677781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9733ab7b21a2494b9b6f06432728bb2
+      internalID: -1543134455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736c2171af559de4bb96c19a6ebf5a3c
+      internalID: -1379802136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e8f1f45d21da94db17a27ad2038dc6
+      internalID: -890644862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a2342023297ff4fb87c5a12893cb31
+      internalID: 1725242919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da4278e7a6c38a479b308593cc9a946
+      internalID: -2105462774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fac0fbb41e3a44abf2fdb19c0e71ba
+      internalID: -2106102332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8eee2330416bd4dbac0b7ff75102b1
+      internalID: 1142338054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea83e62269667244ad0e74452355482
+      internalID: -994240067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462c60c2305e1194788d6b59c5822eeb
+      internalID: -403285152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3386e9f5b63d14aa72012789373421
+      internalID: 1254733002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e17ad4f01ed09440b6c07af087809fd
+      internalID: -1588339072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15353c6c71c954438ef0b93504b8a8f
+      internalID: 1656251128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76eb588d57f61f4589b4e253aee1521
+      internalID: 2058162779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13c3912269272f409e7dbba38f5039a
+      internalID: -993332608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82bd8caa624aeb48945b6503164cacb
+      internalID: -1259158794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24794db6be4d58489a35029bd476e52
+      internalID: -1801150238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fc38a2c2fb9034296cadd1e38c19ef
+      internalID: -159491632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbed24534652d041a84240f999fdeac
+      internalID: -408183283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75764df963e2a64d9c38f5fe3533ab6
+      internalID: -2050690087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd4c83e47cdde049b45030c8788316a
+      internalID: 1849073450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b456dc6944af44ea79745ae8d39d91
+      internalID: 168416463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584f2627da51e9949b4d8bbab271274b
+      internalID: 873685034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f3869496d28a84fa5cc91230cba6ff
+      internalID: 300413044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed71172d2bb86b46a85323c67cd2070
+      internalID: -445061259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c5b601501f61948ad839b1d840a785
+      internalID: 560512596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0a0ea6dc22b3543b177d4830e79cac
+      internalID: -1760658721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98e6baea64da254bba30ebb44079293
+      internalID: 15419974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93959a37a0843214db7a79f8e52bc491
+      internalID: 1135441240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390cbdd9ea75225409d04163d921e5c0
+      internalID: 484965516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5d5adf984c9924cbf8151929c5d1c6
+      internalID: 213799681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391b090594723a5408af1690a9a39414
+      internalID: 1699808116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8e25ce52da15340991758f1212a7f2
+      internalID: -1904725382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97db61ac0d9d1764482c8d57b2a108eb
+      internalID: -415564326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e8a133f03ccac438eeb73ce7c375d3
+      internalID: -1107289414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8982be5bce08b1b47945034d75383c29
+      internalID: 1951953760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61459e21fa121be47863d5506d7c7a72
+      internalID: -1270045340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd76af8350621648b1f553ce3bd8bb1
+      internalID: 1863516176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd93cb3a47830741b15bab050ea65a3
+      internalID: 1329816192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5943765472b16134e8896d9de761bcff
+      internalID: 1734205198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2722c7e36d9522d449cc89d3ea8607f1
+      internalID: 627301942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781224e7a2e6b2943bfb137a7fa8be57
+      internalID: 559650497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff828886c96b0c4487ca7b81c22d52b
+      internalID: -1703663083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9c1ae7bea46014986f80c4cce7b8d4
+      internalID: -1017996659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74996d12942ab2948b9a7889be680e92
+      internalID: 1777325441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c965667dadcc149a50de2b9ad9d29c
+      internalID: -1789421332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e628e084e2919b46ad70cb2b68bf483
+      internalID: 1135404304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb3ad90a1dcd8244801f3e2b9d4a1de
+      internalID: -1334604695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e591a5c6f149d6340bc325d0c4063d42
+      internalID: -862908291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2358fcf08e35d6f41a6d4d10cd5e3bff
+      internalID: 1604894403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51eacf4951f9c74fb7ad2dbc5f382b5
+      internalID: 790950597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6fd17cdd5b04949b5c49d3f340c935
+      internalID: -1567746771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2d5ccf1b1496745a8046f7ca67a10d
+      internalID: -1180518043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a6d906ee77783429a949c4019d4a1e
+      internalID: -1048213953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65a1c74b3a7b404d839ca15d47b2345
+      internalID: -1909530715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8471aa668cafb4ebe336ce58f2b5d2
+      internalID: 1447926077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c63a295ff43ac445a9ca85ea53d80d5
+      internalID: -1395777241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Energy_v2_spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d30eaa8c599dc74996129bc3d70e18f
+      internalID: 723703075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 560bc2c203213fa47bcd25d8a5c96e70
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Explosion_Energy_v2_spritesheet_0: 1928284546
+      Explosion_Energy_v2_spritesheet_1: 1921432616
+      Explosion_Energy_v2_spritesheet_10: 1142338054
+      Explosion_Energy_v2_spritesheet_11: -994240067
+      Explosion_Energy_v2_spritesheet_12: -403285152
+      Explosion_Energy_v2_spritesheet_13: 1254733002
+      Explosion_Energy_v2_spritesheet_14: -1588339072
+      Explosion_Energy_v2_spritesheet_15: 1656251128
+      Explosion_Energy_v2_spritesheet_16: 2058162779
+      Explosion_Energy_v2_spritesheet_17: -993332608
+      Explosion_Energy_v2_spritesheet_18: -1259158794
+      Explosion_Energy_v2_spritesheet_19: -1801150238
+      Explosion_Energy_v2_spritesheet_2: -2015243339
+      Explosion_Energy_v2_spritesheet_20: -159491632
+      Explosion_Energy_v2_spritesheet_21: -408183283
+      Explosion_Energy_v2_spritesheet_22: -2050690087
+      Explosion_Energy_v2_spritesheet_23: 1849073450
+      Explosion_Energy_v2_spritesheet_24: 168416463
+      Explosion_Energy_v2_spritesheet_25: 873685034
+      Explosion_Energy_v2_spritesheet_26: 300413044
+      Explosion_Energy_v2_spritesheet_27: -445061259
+      Explosion_Energy_v2_spritesheet_28: 560512596
+      Explosion_Energy_v2_spritesheet_29: -1760658721
+      Explosion_Energy_v2_spritesheet_3: -1457677781
+      Explosion_Energy_v2_spritesheet_30: 15419974
+      Explosion_Energy_v2_spritesheet_31: 1135441240
+      Explosion_Energy_v2_spritesheet_32: 484965516
+      Explosion_Energy_v2_spritesheet_33: 213799681
+      Explosion_Energy_v2_spritesheet_34: 1699808116
+      Explosion_Energy_v2_spritesheet_35: -1904725382
+      Explosion_Energy_v2_spritesheet_36: -415564326
+      Explosion_Energy_v2_spritesheet_37: -1107289414
+      Explosion_Energy_v2_spritesheet_38: 1951953760
+      Explosion_Energy_v2_spritesheet_39: -1270045340
+      Explosion_Energy_v2_spritesheet_4: -1543134455
+      Explosion_Energy_v2_spritesheet_40: 1863516176
+      Explosion_Energy_v2_spritesheet_41: 1329816192
+      Explosion_Energy_v2_spritesheet_42: 1734205198
+      Explosion_Energy_v2_spritesheet_43: 627301942
+      Explosion_Energy_v2_spritesheet_44: 559650497
+      Explosion_Energy_v2_spritesheet_45: -1703663083
+      Explosion_Energy_v2_spritesheet_46: -1017996659
+      Explosion_Energy_v2_spritesheet_47: 1777325441
+      Explosion_Energy_v2_spritesheet_48: -1789421332
+      Explosion_Energy_v2_spritesheet_49: 1135404304
+      Explosion_Energy_v2_spritesheet_5: -1379802136
+      Explosion_Energy_v2_spritesheet_50: -1334604695
+      Explosion_Energy_v2_spritesheet_51: -862908291
+      Explosion_Energy_v2_spritesheet_52: 1604894403
+      Explosion_Energy_v2_spritesheet_53: 790950597
+      Explosion_Energy_v2_spritesheet_54: -1567746771
+      Explosion_Energy_v2_spritesheet_55: -1180518043
+      Explosion_Energy_v2_spritesheet_56: -1048213953
+      Explosion_Energy_v2_spritesheet_57: -1909530715
+      Explosion_Energy_v2_spritesheet_58: 1447926077
+      Explosion_Energy_v2_spritesheet_59: -1395777241
+      Explosion_Energy_v2_spritesheet_6: -890644862
+      Explosion_Energy_v2_spritesheet_60: 723703075
+      Explosion_Energy_v2_spritesheet_7: 1725242919
+      Explosion_Energy_v2_spritesheet_8: -2105462774
+      Explosion_Energy_v2_spritesheet_9: -2106102332
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
